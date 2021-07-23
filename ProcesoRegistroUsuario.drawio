@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T18:30:10.808Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="t-iE8X7nfjIKmEgPkxAt" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T18:30:25.181Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="n1i4tGGH_AbBj92guQbf" version="14.9.1" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-18" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-1">
-          <mxGeometry x="1160" y="150" width="50" height="50" as="geometry" />
+          <mxGeometry x="1240" y="150" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-19" value="Alertar respuesta del proceso." style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-1">
           <mxGeometry x="910" y="80" width="120" height="80" as="geometry" />
