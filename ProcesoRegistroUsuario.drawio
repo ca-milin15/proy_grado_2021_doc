@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T18:29:11.061Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="u9NAiorPvRFJ0iV-QNzB" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T18:30:10.808Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="t-iE8X7nfjIKmEgPkxAt" version="14.9.1" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-1" value="APLICACION FRONT-END. APP" style="swimlane;horizontal=0;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="150" y="170" width="1320" height="430" as="geometry">
+          <mxGeometry x="150" y="170" width="1430" height="810" as="geometry">
             <mxRectangle x="150" y="170" width="30" height="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -31,7 +31,7 @@
           <mxGeometry x="380" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-2" value="API REST BACK-END JAVA" style="swimlane;horizontal=0;startSize=40;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-1">
-          <mxGeometry y="430" width="1320" height="380" as="geometry" />
+          <mxGeometry y="430" width="1430" height="380" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-20" value="Recibir objeto enviado desde el front" style="html=1;whiteSpace=wrap;rounded=1;" parent="gljZcddLvCCn_Omq8tP8-2" vertex="1">
           <mxGeometry x="110" y="50" width="120" height="90" as="geometry" />
@@ -84,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-23" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-2">
-          <mxGeometry x="1170" y="70" width="50" height="50" as="geometry" />
+          <mxGeometry x="1232.41" y="70" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-21" value="" style="endArrow=blockThin;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;dashed=1;dashPattern=8 4;endFill=0;startArrow=oval;startFill=0;endSize=6;startSize=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gljZcddLvCCn_Omq8tP8-2" source="gljZcddLvCCn_Omq8tP8-17" target="gljZcddLvCCn_Omq8tP8-23">
           <mxGeometry relative="1" as="geometry">
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-63" value="Generar objeto de respuesta de registro del rostro del usuario al cliente&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-2">
-          <mxGeometry x="1108" y="250" width="170" height="80" as="geometry" />
+          <mxGeometry x="1170.41" y="250" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gljZcddLvCCn_Omq8tP8-2" source="gljZcddLvCCn_Omq8tP8-54" target="gljZcddLvCCn_Omq8tP8-63">
           <mxGeometry relative="1" as="geometry">
@@ -120,8 +120,8 @@
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-65" value="" style="endArrow=blockThin;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;dashed=1;dashPattern=8 4;endFill=0;startArrow=oval;startFill=0;endSize=6;startSize=4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="gljZcddLvCCn_Omq8tP8-2" source="gljZcddLvCCn_Omq8tP8-63" target="gljZcddLvCCn_Omq8tP8-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="105.00000000000023" as="sourcePoint" />
-            <mxPoint x="1180" y="105.00000000000023" as="targetPoint" />
+            <mxPoint x="1102.41" y="105.00000000000023" as="sourcePoint" />
+            <mxPoint x="1242.41" y="105.00000000000023" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -160,7 +160,7 @@
         <mxCell id="7a84cebc1def654-1" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=standard;symbol=general;" parent="gljZcddLvCCn_Omq8tP8-1" vertex="1">
           <mxGeometry x="60" y="95" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7a84cebc1def654-2" value="Tomar fotografia utilizando OPENCV del usuario" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="gljZcddLvCCn_Omq8tP8-1" vertex="1">
+        <mxCell id="7a84cebc1def654-2" value="Tomar fotografia del usuario&lt;br&gt;&amp;nbsp;utilizando OPENCV&amp;nbsp;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="gljZcddLvCCn_Omq8tP8-1" vertex="1">
           <mxGeometry x="190" y="80" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="gljZcddLvCCn_Omq8tP8-1" source="7a84cebc1def654-1" target="7a84cebc1def654-2" edge="1">
@@ -171,7 +171,7 @@
             <mxPoint x="947" y="809.9999999999998" as="sourcePoint" />
             <mxPoint x="1060" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1345" y="550" />
+              <mxPoint x="1410" y="550" />
               <mxPoint x="840" y="550" />
             </Array>
           </mxGeometry>
@@ -182,7 +182,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-41" value="AWS API GATEWAY. &#xa;FUNCIÓN LAMBDA: biometric_face_sign_lambda_funct" style="swimlane;horizontal=0;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="150" y="980" width="1320" height="360" as="geometry" />
+          <mxGeometry x="150" y="980" width="1430" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-44" value="Recibir objeto enviado desde el back en Java" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-41">
           <mxGeometry x="70" y="156" width="150" height="80" as="geometry" />
