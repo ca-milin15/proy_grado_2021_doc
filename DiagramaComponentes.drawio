@@ -1,4 +1,4 @@
-<mxfile modified="2021-07-23T18:31:45.757Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="yw4ERMuZbAM2z17RjuBr" version="14.9.1" type="github">
+<mxfile modified="2021-07-23T18:32:46.514Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="3Atbq5paFMvEYAGbUort" version="14.9.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,8 +19,11 @@
         <mxCell id="bTMXntHbuXdUkVzYNGNJ-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="369" width="60" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="bTMXntHbuXdUkVzYNGNJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bTMXntHbuXdUkVzYNGNJ-3" target="bTMXntHbuXdUkVzYNGNJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bTMXntHbuXdUkVzYNGNJ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d3d3d3;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="56.5" y="180.5" width="220" height="310" as="geometry" />
+          <mxGeometry x="80" y="180.5" width="220" height="310" as="geometry" />
         </mxCell>
         <mxCell id="bTMXntHbuXdUkVzYNGNJ-4" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.java" vertex="1" parent="1">
           <mxGeometry x="540" y="349" width="34.4" height="65" as="geometry" />
@@ -32,7 +35,7 @@
           <mxGeometry x="452" y="190" width="78" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bTMXntHbuXdUkVzYNGNJ-8" value="FRONT-END" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="190" width="78" height="20" as="geometry" />
+          <mxGeometry x="151" y="190" width="78" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bTMXntHbuXdUkVzYNGNJ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d3d3d3;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="690" y="180.5" width="340" height="310" as="geometry" />
@@ -51,7 +54,7 @@
         </mxCell>
         <mxCell id="bTMXntHbuXdUkVzYNGNJ-18" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bTMXntHbuXdUkVzYNGNJ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="335" as="sourcePoint" />
+            <mxPoint x="300" y="335" as="sourcePoint" />
             <mxPoint x="340" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -68,7 +71,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bTMXntHbuXdUkVzYNGNJ-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/512/Ionic_Logo-2-128.png" vertex="1" parent="1">
-          <mxGeometry x="205.5" y="420" width="56" height="56" as="geometry" />
+          <mxGeometry x="205.5" y="383.5" width="81.5" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bTMXntHbuXdUkVzYNGNJ-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-128.png" vertex="1" parent="1">
+          <mxGeometry x="240.5" y="440.5" width="34.5" height="34.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
