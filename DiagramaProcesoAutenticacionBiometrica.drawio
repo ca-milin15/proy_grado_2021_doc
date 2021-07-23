@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T18:38:30.183Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Rk6x21yZ_7dDUmuXalNR" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T18:43:51.101Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="GzoWIDh5n-q_qgMIRKbU" version="14.9.1" type="github">
   <diagram id="WSkJC6NNngoiEzodDmeb" name="Page-1">
-    <mxGraphModel dx="2170" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
             <mxPoint x="970" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-5" value="APLICACION FRONT-END. APP" style="swimlane;horizontal=0;startSize=40;" vertex="1" parent="1">
+        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-5" value="APLICACION FRONT-END. WEB-APP" style="swimlane;horizontal=0;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="150" y="170" width="1430" height="430" as="geometry">
             <mxRectangle x="150" y="170" width="30" height="260" as="alternateBounds" />
           </mxGeometry>
@@ -41,7 +41,7 @@
             <mxPoint x="7" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-10" value="Cargar fotografia a&amp;nbsp; coleccion de fotos de usuarios en el bucket AWS S3" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="y3wNRUAzm8mTdQ6PBOl_-7">
+        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-10" value="Cargar fotografia en una ruta temporal en el bucket AWS S3" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="y3wNRUAzm8mTdQ6PBOl_-7">
           <mxGeometry x="310" y="50" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="y3wNRUAzm8mTdQ6PBOl_-11" value="" style="html=1;shape=plus;" vertex="1" parent="y3wNRUAzm8mTdQ6PBOl_-10">
@@ -98,8 +98,8 @@
             <mxPoint x="-13" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-21" value="Generar objeto para consumir servicio del AWS API Gateway y función lambda que almacena fotografía a colección de Amazon Rekognition" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="y3wNRUAzm8mTdQ6PBOl_-7">
-          <mxGeometry x="460" y="250" width="210" height="80" as="geometry" />
+        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-21" value="Generar objeto para consumir servicio del AWS API Gateway y función lambda que compara y valida la fotografía enviada con la colección de fotografías de los usuario registrados en Amazon Rekognition" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="y3wNRUAzm8mTdQ6PBOl_-7">
+          <mxGeometry x="445" y="250" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y3wNRUAzm8mTdQ6PBOl_-22" value="Recibir objeto enviado desde AWS API GATEWAY" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="y3wNRUAzm8mTdQ6PBOl_-7">
           <mxGeometry x="820" y="250" width="210" height="80" as="geometry" />
@@ -181,7 +181,7 @@
             <mxPoint x="8" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-38" value="AWS API GATEWAY. &#xa;FUNCIÓN LAMBDA: biometric_face_sign_lambda_funct" style="swimlane;horizontal=0;startSize=40;" vertex="1" parent="1">
+        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-38" value="AWS API GATEWAY. &#xa;FUNCIÓN LAMBDA: biometric_auth_lambda_funct" style="swimlane;horizontal=0;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="150" y="980" width="1430" height="360" as="geometry" />
         </mxCell>
         <mxCell id="y3wNRUAzm8mTdQ6PBOl_-39" value="Recibir objeto enviado desde el back en Java" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="y3wNRUAzm8mTdQ6PBOl_-38">
@@ -192,7 +192,7 @@
             <mxPoint x="7" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-41" value="Agregar fotografía del usuario a la colección de fotos de usuarios de Amazon Rekognition" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="y3wNRUAzm8mTdQ6PBOl_-38">
+        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-41" value="Ejecutar método del SDK de Python, Boto3, para comparar y validar fotografía del usuario con la colección de fotos de usuarios con el rostro registrado de Amazon Rekognition" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="y3wNRUAzm8mTdQ6PBOl_-38">
           <mxGeometry x="300" y="156" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="y3wNRUAzm8mTdQ6PBOl_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="y3wNRUAzm8mTdQ6PBOl_-38" source="y3wNRUAzm8mTdQ6PBOl_-39" target="y3wNRUAzm8mTdQ6PBOl_-41">
@@ -258,7 +258,7 @@
             <mxPoint x="-14" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-53" value="Diagrama de proceso para autenticación de biometrica" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="y3wNRUAzm8mTdQ6PBOl_-53" value="Diagrama de proceso para autenticación de biométrica" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="56.5" y="64.5" width="800" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y3wNRUAzm8mTdQ6PBOl_-54" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="1">
