@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T18:30:25.181Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="n1i4tGGH_AbBj92guQbf" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T18:30:59.482Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="qq01DZrRyxKr8r8sytZ7" version="14.9.1" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-58" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-41">
-          <mxGeometry x="900" y="171" width="50" height="50" as="geometry" />
+          <mxGeometry x="970" y="171" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gljZcddLvCCn_Omq8tP8-41" source="gljZcddLvCCn_Omq8tP8-50" target="gljZcddLvCCn_Omq8tP8-58">
           <mxGeometry relative="1" as="geometry">
@@ -220,7 +220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-61" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-41">
-          <mxGeometry x="1075" y="171" width="50" height="50" as="geometry" />
+          <mxGeometry x="1230" y="171" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="gljZcddLvCCn_Omq8tP8-41" source="gljZcddLvCCn_Omq8tP8-58" target="gljZcddLvCCn_Omq8tP8-61">
           <mxGeometry relative="1" as="geometry">
@@ -248,13 +248,14 @@
             <mxPoint x="1170" y="800" as="sourcePoint" />
             <mxPoint x="915" y="810" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1145" y="1040" />
               <mxPoint x="1075" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-57" value="" style="shape=message;html=1;outlineConnect=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingRight=5;labelBackgroundColor=#ffffff;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-56">
           <mxGeometry width="24" height="16" relative="1" as="geometry">
-            <mxPoint x="8" y="-8" as="offset" />
+            <mxPoint x="-14" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-67" value="Diagrama de proceso para el registro del rostro del usuario" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="1">
