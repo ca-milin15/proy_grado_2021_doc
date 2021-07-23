@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T18:20:07.205Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7N98bffMvzktK-NbhMeW" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T18:20:57.840Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="4izCWwFx7ge6med-Gi_j" version="14.9.1" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
             <mxPoint x="8" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gljZcddLvCCn_Omq8tP8-41" value="AWS API GATEWAY. &#xa;FUNCIÓN LAMBDA: biometric_auth_lambda_funct" style="swimlane;horizontal=0;startSize=40;" vertex="1" parent="1">
+        <mxCell id="gljZcddLvCCn_Omq8tP8-41" value="AWS API GATEWAY. &#xa;FUNCIÓN LAMBDA: biometric_face_sign_lambda_funct" style="swimlane;horizontal=0;startSize=40;" vertex="1" parent="1">
           <mxGeometry x="150" y="980" width="1320" height="360" as="geometry" />
         </mxCell>
         <mxCell id="gljZcddLvCCn_Omq8tP8-44" value="Recibir objeto enviado desde el back en Java" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="gljZcddLvCCn_Omq8tP8-41">
