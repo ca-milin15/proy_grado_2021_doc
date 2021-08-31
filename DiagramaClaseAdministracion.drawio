@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T01:54:06.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="DAlhSBSl0svq2M0UlO3L" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T01:55:35.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="ah8bmnsp81IR26YHvFQT" version="15.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,6 +136,12 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-7" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlnT3RoXkynXItq2oKv4-1" value="Diagrama de clase modulo ADMINISTRACION" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="56.5" y="40" width="670" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlnT3RoXkynXItq2oKv4-2" value="" style="line;strokeWidth=2;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="85.5" width="1060" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
