@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T03:30:51.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="QJmO8WbEkzZaVSqzCDQj" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T03:32:47.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="9zdGMSo3Y8rR6DNzExDK" version="15.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -14,10 +14,10 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkRwKCfJqdVOhUtzeRTr-24" value="id: BigInteger" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="WkRwKCfJqdVOhUtzeRTr-23" vertex="1">
+        <mxCell id="WkRwKCfJqdVOhUtzeRTr-24" value="id: bigint" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="WkRwKCfJqdVOhUtzeRTr-23" vertex="1">
           <mxGeometry y="26" width="185" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="WkRwKCfJqdVOhUtzeRTr-25" value="idUser: BigInteger" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="WkRwKCfJqdVOhUtzeRTr-23" vertex="1">
+        <mxCell id="WkRwKCfJqdVOhUtzeRTr-25" value="idUser: bigint" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="WkRwKCfJqdVOhUtzeRTr-23" vertex="1">
           <mxGeometry y="50" width="185" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WkRwKCfJqdVOhUtzeRTr-26" value="faceId: varchar(120)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="WkRwKCfJqdVOhUtzeRTr-23" vertex="1">
@@ -52,8 +52,8 @@
             <mxPoint x="-7" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkRwKCfJqdVOhUtzeRTr-34" value="Diagrama de clase modulo &lt;br&gt;REGISTRO / AUTENTICACION" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="126.5" y="40" width="440" height="70" as="geometry" />
+        <mxCell id="WkRwKCfJqdVOhUtzeRTr-34" value="Diagrama de relacional. Modulo &lt;br&gt;REGISTRO / AUTENTICACION" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="126.5" y="40" width="470" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WkRwKCfJqdVOhUtzeRTr-35" value="" style="line;strokeWidth=2;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="120" width="680" height="10" as="geometry" />
