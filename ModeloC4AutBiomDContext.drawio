@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T04:11:34.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.2.9" etag="fmnnGrIpPrahQa__dUbl" type="github"><diagram id="ZKK7Xh2nmRTc22aEWUPY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-15T04:12:34.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Wc0-VNcxu9NfzAcrcUki" version="15.2.9" type="github">
+  <diagram id="ZKK7Xh2nmRTc22aEWUPY" name="Page-1">
+    <mxGraphModel dx="5395" dy="3537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v2i8IFnvXQYw_XU6sGci-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-940" width="2810" height="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="v2i8IFnvXQYw_XU6sGci-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-740" width="2580" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="v2i8IFnvXQYw_XU6sGci-2" value="Contexto del sistema" style="text;strokeColor=none;fillColor=none;html=1;fontSize=35;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-690" width="352" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v2i8IFnvXQYw_XU6sGci-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="-250" width="1950" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="v2i8IFnvXQYw_XU6sGci-4" value="&lt;div style=&quot;font-size: 37px&quot;&gt;&lt;font style=&quot;font-size: 37px&quot;&gt;&lt;b style=&quot;font-size: 37px&quot;&gt;AUTENTICACION BIOMETRICA APP/WEB&lt;br style=&quot;font-size: 37px&quot;&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 37px&quot;&gt;&lt;br style=&quot;font-size: 37px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 37px&quot;&gt;Todo el personal que desee ingresar al Tecnologico de Antioquia debe registrarse como usuario en la version APP del proyecto, y registrar sus datos biometricos, en este caso el rostro, para un&amp;nbsp;&lt;/div&gt;proceso&amp;nbsp;&lt;span&gt;posterior de autenticación en la versión WEB que será administrada por el personal de seguridad de la insitución en los puntos de accesos físicos.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;fontSize=37;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="-200" width="1180" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="v2i8IFnvXQYw_XU6sGci-5" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;fontSize=30;fontStyle=1" edge="1" parent="1" source="v2i8IFnvXQYw_XU6sGci-8" target="v2i8IFnvXQYw_XU6sGci-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1052.5" y="-59.99999999999977" as="sourcePoint" />
+            <mxPoint x="562.5" y="-0.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v2i8IFnvXQYw_XU6sGci-6" value="AUTENTICACION BIOMETRICA - MODELO C4" style="text;strokeColor=none;fillColor=none;html=1;fontSize=33;fontStyle=1;verticalAlign=middle;align=center;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-890" width="759" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v2i8IFnvXQYw_XU6sGci-7" value="" style="line;strokeWidth=4;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-106" y="-830" width="920" height="8" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Personal diferente a equipo de seguridad del TDEA" c4Type="Person" c4Description="Esta es la representación de estudiantes, profesores, &#xa;personal administrativos y terceros&#xa; que deseen ingresar al TDEA" label="&lt;b style=&quot;font-size: 36px;&quot;&gt;%c4Name%&lt;/b&gt;&lt;div style=&quot;font-size: 36px;&quot;&gt;[%c4Type%]&lt;/div&gt;&lt;br style=&quot;font-size: 36px;&quot;&gt;&lt;div style=&quot;font-size: 36px;&quot;&gt;%c4Description%&lt;/div&gt;" id="v2i8IFnvXQYw_XU6sGci-8">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};fontSize=36;" vertex="1" parent="1">
+            <mxGeometry x="717.5" y="-690" width="930" height="360" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
